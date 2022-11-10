@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/gamer-bedroom-interior-set_107791-2644.jpg?w=996&t=st=1668074111~exp=1668074711~hmac=732f35ac0daada5f4b208d6b9c79805cdce154fb485a437744782a21c44ad216)]
+![MasterHead](https://img.freepik.com/free-vector/gamer-bedroom-interior-set_107791-2644.jpg?w=996&t=st=1668074111~exp=1668074711~hmac=732f35ac0daada5f4b208d6b9c79805cdce154fb485a437744782a21c44ad216)
 <h1 align="center">Hi 👋, I'm Ashin Geo</h1>
 <h3 align="center">A passionate JAVA full stack developer from India</h3>
 
